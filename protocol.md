@@ -364,3 +364,10 @@ Este protocolo es **agnóstico a la tecnología**. Actúa como capa de razonamie
 
 *Para personalizar: busca y reemplaza `[TU_MARCA]` por el nombre de tu marca o proyecto.*
 *Compatible con: Gemini Code Assist, Cursor, GitHub Copilot, Claude Code, Windsurf, y cualquier agente que lea archivos de instrucciones.*
+
+<p align="center">
+  <strong>Creado por <a href="https://github.com/Kosyalls">KosyAI</a></strong> · MIT License<br>
+  <a href="https://www.instagram.com/imkosyai/">📸 Instagram</a> · <a href="https://www.linkedin.com/in/sergi-cosialls-jimenez-455688397/">💼 LinkedIn</a><br><br>
+  ⭐ Si te ha sido útil, deja una estrella en el repo
+</p>
+

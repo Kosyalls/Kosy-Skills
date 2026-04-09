@@ -78,9 +78,8 @@ React · Next.js · Vue · Angular · Node.js · Python · Go · PostgreSQL · S
 Creado por **[KosyAI](https://github.com/Kosyalls)** · MIT License
 
 Síguenos para más herramientas de productividad con IA:
-- 📸 [Instagram](https://instagram.com/kosyai)
-- 💼 [LinkedIn](https://linkedin.com/company/kosyai)
-- 🎵 [TikTok](https://tiktok.com/@kosyai)
+- 📸 [Instagram](https://www.instagram.com/imkosyai/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sergi-cosialls-jimenez-455688397/)
 
 ---
 
